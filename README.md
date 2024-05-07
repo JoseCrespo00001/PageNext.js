@@ -1,6 +1,6 @@
-# Nombre del Proyecto
+# LogIn
 
-Descripción breve del proyecto.
+Primera pagina con Next.js
 
 ## Captura de Pantalla
 
