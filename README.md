@@ -5,10 +5,11 @@ Primera pagina con Next.js
 https://page-next-js.vercel.app/
 
 ## Captura de Pantalla
+<img width="1075" alt="Captura de pantalla 2024-05-08 a la(s) 03 26 20" src="https://github.com/JoseCrespo00001/PageNext.js/assets/123144789/89709031-e02f-421f-813d-c25bff39cda8">
 
 
 
-<img src="https://github.com/JoseCrespo00001/PageNext.js/assets/123144789/b3114919-6929-4b31-ab4f-23d0ddbe4a88" alt="Captura de Pantalla">
+
 
 ## Tecnologías Utilizadas
 
